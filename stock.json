@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1,
+    "nombre": "BMW 135i",
+    "tipo": "2",
+    "desc": "BMW Serie 1 2.5 135i Coupe Sportive 306cv",
+    "precio": 35000,
+    "km": "25.000",
+    "img": "./image/135.webp",
+    "cantidad": 1
+  },
+  {
+    "id": 2,
+    "nombre": "BMW X6M",
+    "tipo": "6",
+    "desc": "BMW X6 4.4 M 555cv",
+    "precio": 50000,
+    "km": "50.000",
+    "img": "/image/x6.webp",
+    "cantidad": 1
+  },
+  {
+    "id": 3,
+    "nombre": "AMAROK V6",
+    "tipo": "3",
+    "desc": "Volkswagen Amarok 3.0 V6 Extreme",
+    "precio": 53000,
+    "km": "26.000",
+    "img": "/image/amarok.webp",
+    "cantidad": 1
+  },
+  {
+    "id": 4,
+    "nombre": "MERCEDES GLC300",
+    "tipo": "6",
+    "desc": "Mercedes-Benz Clase GLC 2.0 Glc250 300 4matic Atomático",
+    "precio": 85000,
+    "km": "43.000",
+    "img": "/image/mercedes.webp",
+    "cantidad": 1
+  },
+  {
+    "id": 5,
+    "nombre": "MUSTANG GT",
+    "tipo": "2",
+    "desc": "Ford Mustang 5.0 Gt 421cv",
+    "precio": 72000,
+    "km": "31.000",
+    "img": "/image/mustang.webp",
+    "cantidad": 1
+  },
+  {
+    "id": 6,
+    "nombre": "YARIS GR",
+    "tipo": "1",
+    "desc": "Toyota Yaris Gr",
+    "precio": 61000,
+    "km": "6.000",
+    "img": "/image/yaris.webp",
+    "cantidad": 1
+  },
+  {
+    "id": 7,
+    "nombre": "RCZ",
+    "tipo": "2",
+    "desc": "Peugeot RCZ 1.6 Carbon Concept Thp 200cv 6mt",
+    "precio": 25000,
+    "km": "48.000",
+    "img": "/image/rcz.webp",
+    "cantidad": 1
+  },
+  {
+    "id": 8,
+    "nombre": "SCIROCCO GTS",
+    "tipo": "1",
+    "desc": "Volkswagen Scirocco 2.0 Tsi Gts 211cv Dsg",
+    "precio": 3.0,
+    "km": "34.000",
+    "img": "/image/scirocco.webp",
+    "cantidad": 1
+  },
+  {
+    "id": 9,
+    "nombre": "F-150 RAPTOR",
+    "tipo": "3",
+    "desc": "Ford F-150 Raptor 3.5l Bi-turbo",
+    "precio": 98000,
+    "km": "28.000",
+    "img": "/image/raptor.webp",
+    "cantidad": 1
+  },
+  {
+    "id": 10,
+    "nombre": "BMW 120i",
+    "tipo": "2",
+    "desc": "BMW Serie 1 1.6 120i M Package 177cv",
+    "precio": 30500,
+    "km": "47.000",
+    "img": "/image/120.webp",
+    "cantidad": 1
+  },
+  {
+    "id": 11,
+    "nombre": "MERCEDES A45 AMG",
+    "tipo": "1",
+    "desc": "Mercedes-Benz Clase A 1.6 A35 4matic 306 Cv 5 p",
+    "precio": 91000,
+    "km": "21.000",
+    "img": "/image/a45.webp",
+    "cantidad": 1
+  },
+  {
+    "id": 12,
+    "nombre": "CHALLENGER SRT",
+    "tipo": "2",
+    "desc": "Dodge Challenger R/t 5.7 Hemi",
+    "precio": 95000,
+    "km": "32.000",
+    "img": "/image/srt.webp",
+    "cantidad": 1
+  },
+  {
+    "id": 13,
+    "nombre": "MINI COOPER",
+    "tipo": "4",
+    "desc": "Mini Cooper S 2.0 F56 Look Jcw 192cv",
+    "precio": 30000,
+    "km": "5.000",
+    "img": "/image/cooper.webp",
+    "cantidad": 1
+  },
+  {
+    "id": 14,
+    "nombre": "F-150 RAPTOR",
+    "tipo": "3",
+    "desc": "Ford F-150 Raptor 3.5l Bi-turbo",
+    "precio": 90000,
+    "km": "40.000",
+    "img": "/image/raptor2.webp",
+    "cantidad": 1
+  },
+  {
+    "id": 15,
+    "nombre": "MUSTANG",
+    "tipo": "2",
+    "desc": "Ford Mustang 5.0 Gt 421cv",
+    "precio": 7.0,
+    "km": "60.000",
+    "img": "/image/mustang2.webp",
+    "cantidad": 1
+  },
+  {
+    "id": 16,
+    "nombre": "SCIROCCO ",
+    "tipo": "4",
+    "desc": "Volkswagen Scirocco 2.0 Tsi 211cv",
+    "precio": 24500,
+    "km": "49.000",
+    "img": "/image/rocco.webp",
+    "cantidad": 1
+  },
+  {
+    "id": 17,
+    "nombre": "AUDI S3",
+    "tipo": "4",
+    "desc": "Audi S3 2.0 T Fsi Stronic Quattro 255cv",
+    "precio": 25000,
+    "km": "65.000",
+    "img": "/image/s3.webp",
+    "cantidad": 1
+  },
+  {
+    "id": 18,
+    "nombre": "F-150 LARIAT",
+    "tipo": "3",
+    "desc": "Ford F-150 Lariat Luxury 5.0l V8 4x4 At",
+    "precio": 94000,
+    "km": "500",
+    "img": "/image/lariat.webp",
+    "cantidad": 1
+  },
+  {
+    "id": 19,
+    "nombre": "AUDI SQ5",
+    "tipo": "6",
+    "desc": "Audi SQ5 3.0 Tfsi Stronic 354cv",
+    "precio": 95000,
+    "km": "19.000",
+    "img": "/image/sq5.webp",
+    "cantidad": 1
+  },
+  {
+    "id": 20,
+    "nombre": "DODGE RAM 1500",
+    "tipo": "3",
+    "desc": "RAM 1500 5.7 Laramie Atx V8",
+    "precio": 45000,
+    "km": "70.000",
+    "img": "/image/ram.webp",
+    "cantidad": 1
+  },
+  {
+    "id": 21,
+    "nombre": "MUSTANG CABRIO",
+    "tipo": "7",
+    "desc": "Ford Mustang 4.0 V6 Sohc Premium Descapotable",
+    "precio": 55000,
+    "km": "63.000",
+    "img": "/image/mustang3.webp",
+    "cantidad": 1
+  },
+  {
+    "id": 22,
+    "nombre": "DS3",
+    "tipo": "4",
+    "desc": "DS DS3 1.6 Thp 208 S&s Performance",
+    "precio": 22000,
+    "km": "58.000",
+    "img": "/image/ds3.webp",
+    "cantidad": 1
+  },
+  {
+    "id": 23,
+    "nombre": "VENTO GLI",
+    "tipo": "5",
+    "desc": "Volkswagen Vento 2.0 Tsi Gli 211cv App Connect + Nav",
+    "precio": 27000,
+    "km": "45.000",
+    "img": "/image/vento.webp",
+    "cantidad": 1
+  },
+  {
+    "id": 24,
+    "nombre": "BMW 220i",
+    "tipo": "2",
+    "desc": "BMW Serie 2 2.0 220i Sport Line 184cv",
+    "precio": 42000,
+    "km": "36.000",
+    "img": "/image/240.webp",
+    "cantidad": 1
+  }
+]
